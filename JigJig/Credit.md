@@ -1,6 +1,6 @@
 # Credit
-本ゲームは すずきかつーき (Katsuyuki Suzuki) が制作しました。
-twitter @divide_by_zero 
+本ゲームは すずきかつーき (Katsuyuki Suzuki) が制作しました。  
+twitter @divide_by_zero   
 mail divide.by.zero.divide.by.zero@gmail.com
 
 # Assets/Libraries
