@@ -1,7 +1,9 @@
-## Program
-すずきかつーき (Katsuyuki Suzuki)
+# Credit
+本ゲームは すずきかつーき (Katsuyuki Suzuki) が制作しました。
+twitter @divide_by_zero 
+mail divide.by.zero.divide.by.zero@gmail.com
 
-# Assets
+# Assets/Libraries
 
 ## DOTween Pro License
 Copyright (c) 2014 Daniele Giardini - Demigiant
