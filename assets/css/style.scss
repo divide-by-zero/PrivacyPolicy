@@ -1,5 +1,10 @@
 @import "{{ site.theme }}";
 
-header {
+footer {
   display: none;
 }
+
+.page-header {
+  display: none;
+}
+
