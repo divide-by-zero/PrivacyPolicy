@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown: kramdown
+auto: true
+kramdown:
+  input: GFM
 name: 
 title: 
 github:
