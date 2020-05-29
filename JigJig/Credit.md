@@ -3,6 +3,12 @@
 twitter @divideby_zero   
 mail divide.by.zero.divide.by.zero@gmail.com
 
+# Program
+すずきかつーき
+
+# Design
+Ryosuke
+
 # Assets/Libraries
 
 ## DOTween Pro License
